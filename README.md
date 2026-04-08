@@ -73,4 +73,4 @@ The core logic is designed to handle up to 500 locations, making it suitable for
 * **Geospatial Integration:** Prioritizing not just by urgency, but by proximity to distribution hubs.
 
 ---
-**Developed by CHARAN MANTHENA.** *Developed to support ethical and efficient humanitarian aid distribution.*
+**Developed by Charan Manthena.** *Developed to support ethical and efficient humanitarian aid distribution.*
